@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddfecbd6.css",
+    "main.js": "/static/js/main.e9800ff4.js",
+    "static/media/Frutiger LT Arabic 45 Light.ttf": "/static/media/Frutiger LT Arabic 45 Light.e74152aa3f4ff75c569f.ttf",
+    "static/media/airpods.png": "/static/media/airpods.b35e1d4799398781b9c7.png",
+    "static/media/nodata.png": "/static/media/nodata.c6d21af0a63d782b7d8c.png",
+    "static/media/axios.cjs": "/static/media/axios.2c026a5114036a3e687e.cjs",
+    "static/media/Frutiger LT Std 65 Bold.otf": "/static/media/Frutiger LT Std 65 Bold.cedf797e7e2f6dd9f49e.otf",
+    "static/media/Frutiger LT Std 75 Black.otf": "/static/media/Frutiger LT Std 75 Black.63d6d214956d02b74c1a.otf",
+    "static/media/Frutiger LT Std 55 Roman.otf": "/static/media/Frutiger LT Std 55 Roman.8c08879e48a084527c10.otf",
+    "index.html": "/index.html",
+    "main.ddfecbd6.css.map": "/static/css/main.ddfecbd6.css.map",
+    "main.e9800ff4.js.map": "/static/js/main.e9800ff4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddfecbd6.css",
+    "static/js/main.e9800ff4.js"
+  ]
+}
